@@ -1,0 +1,6 @@
+members,32
+eq_steps,1000
+mc_steps,10000
+density,0.6
+sampling_freq,10
+infection_zone,1.2
